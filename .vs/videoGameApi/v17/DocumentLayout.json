@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "videoGameApi.http",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\videoGameApi.http",
+              "RelativeDocumentMoniker": "videoGameApi\\videoGameApi.http",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\videoGameApi.http",
+              "RelativeToolTip": "videoGameApi\\videoGameApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-14T15:52:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\WeatherForecast.cs",
+              "RelativeToolTip": "videoGameApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:52:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "videoGameApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "videoGameApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T15:51:47.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.json",
+              "RelativeDocumentMoniker": "videoGameApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.json",
+              "RelativeToolTip": "videoGameApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T15:51:21.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
+              "RelativeToolTip": "videoGameApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:50:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:49:54.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
