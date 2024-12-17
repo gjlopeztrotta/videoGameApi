@@ -21,6 +21,32 @@
   },
   {
     "ContainingType": "videoGameApi.Controllers.VideoGameController",
+    "Method": "addVideoGame",
+    "RelativePath": "api/VideoGame",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newGame",
+        "Type": "videoGameApi.Model.VideoGame",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "videoGameApi.Model.VideoGame",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "videoGameApi.Controllers.VideoGameController",
     "Method": "GetVideoGameById",
     "RelativePath": "api/VideoGame/{id}",
     "HttpMethod": "GET",
@@ -33,7 +59,17 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "videoGameApi.Model.VideoGame",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "videoGameApi.Controllers.WeatherForecastController",

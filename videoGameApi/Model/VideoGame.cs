@@ -8,7 +8,7 @@
         public string? Developer { get; set; }
         public string? Publisher { get; set; }
         
-
+        public VideoGameDetails VideoGameDetails { get; set; }
 
     }
 }
