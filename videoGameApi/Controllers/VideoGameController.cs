@@ -14,7 +14,7 @@ namespace videoGameApi.Controllers
         private readonly VideoGameDbContext _context = context;
         
         [HttpGet]
-        private async Task<ActionResult<List<VideoGame>>> GetVideoGames()
+        public async Task<ActionResult<List<VideoGame>>> GetVideoGames()
         {
             return Ok(await _context.VideoGames.ToListAsync());
         }
@@ -26,7 +26,7 @@ namespace videoGameApi.Controllers
         {
 
 
-            return Ok();
+            return Ok("acabe");
 
         }
 
