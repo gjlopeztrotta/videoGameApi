@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "videoGameApi.Controllers.VideoGameController",
+    "Method": "GetVideoGameById",
+    "RelativePath": "api/VideoGame/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "videoGameApi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

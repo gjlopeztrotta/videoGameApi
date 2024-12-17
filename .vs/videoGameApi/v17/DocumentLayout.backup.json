@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\repository\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\repository\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -23,8 +31,24 @@
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\database\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\database\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\videogameapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\videogameapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +58,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "videoGameApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:53:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "videoGameApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.Development.json",
+              "RelativeToolTip": "videoGameApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T15:37:10.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "videoGameApi\\Controllers\\VideoGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:57:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "videoGameApi.csproj",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\videoGameApi.csproj",
+              "RelativeDocumentMoniker": "videoGameApi\\videoGameApi.csproj",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\videoGameApi.csproj",
+              "RelativeToolTip": "videoGameApi\\videoGameApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T16:50:52.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "videoGameApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "videoGameApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T15:51:47.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.json",
+              "RelativeDocumentMoniker": "videoGameApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.json",
+              "RelativeToolTip": "videoGameApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T15:51:21.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
+              "RelativeToolTip": "videoGameApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:50:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "videoGameApi.http",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\videoGameApi.http",
               "RelativeDocumentMoniker": "videoGameApi\\videoGameApi.http",
@@ -46,12 +163,48 @@
               "RelativeToolTip": "videoGameApi\\videoGameApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-14T15:52:54.476Z",
+              "WhenOpened": "2024-12-14T15:52:54.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:20:09.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGame.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGame.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\VideoGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:51:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoGameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Database\\VideoGameDbContext.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\Database\\VideoGameDbContext.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Database\\VideoGameDbContext.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\Database\\VideoGameDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:54:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "videoGameApi\\WeatherForecast.cs",
@@ -59,64 +212,7 @@
               "RelativeToolTip": "videoGameApi\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T15:52:42.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "videoGameApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "videoGameApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T15:51:47.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.json",
-              "RelativeDocumentMoniker": "videoGameApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\appsettings.json",
-              "RelativeToolTip": "videoGameApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-14T15:51:21.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
-              "RelativeDocumentMoniker": "videoGameApi\\Program.cs",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
-              "RelativeToolTip": "videoGameApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T15:50:45.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "videoGameApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "videoGameApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T15:49:54.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "WhenOpened": "2024-12-14T15:52:42.535Z"
             }
           ]
         }
