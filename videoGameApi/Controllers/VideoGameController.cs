@@ -45,6 +45,8 @@ namespace videoGameApi.Controllers
 
             return  CreatedAtAction(nameof(GetVideoGameById),new {id=newGame.VideoGameId }, newGame);
 
+           // [HttpPut]
+
         }
 
     }
