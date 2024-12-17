@@ -20,7 +20,6 @@ namespace videoGameApi.Controllers
             return Ok(await _context.VideoGames.Include(g => g.VideoGameDetails).ToListAsync());
         }
         
-
         
 
         [HttpGet("{id}")]
