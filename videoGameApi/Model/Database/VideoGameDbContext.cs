@@ -4,6 +4,7 @@ namespace videoGameApi.Model.Database
 {
     public class VideoGameDbContext(DbContextOptions<VideoGameDbContext> options) : DbContext(options)
     {
+
         public DbSet<VideoGame> VideoGames =>Set<VideoGame>();
 
         public DbSet<VideoGameDetails> VideoGameDetails => Set<VideoGameDetails>();
