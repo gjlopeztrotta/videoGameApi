@@ -42,6 +42,11 @@ namespace videoGameApi.Controllers
             //var game= await _context.VideoGames.FindAsync(id);
             if (game==null)
                 return NotFound();
+            if (game != null)
+            {
+                game.IdVideoGameVersion = 88888;
+                
+            }
             return Ok(game);
 
         }
