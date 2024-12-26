@@ -17,7 +17,14 @@ namespace videoGameApi.Controllers
         [HttpGet]
         public async Task<ActionResult<List<VideoGame>>> GetVideoGames()
         {
-            return Ok(await _context.VideoGames.Include(g => g.VideoGameDetails).ToListAsync());
+            return Ok(await _context.VideoGames
+                .Include(g => g.VideoGameDetails)
+                .Include(g => g.Mercado)
+                .Include(g => g.VideoGameVersions)
+                .Include(g => g.VideGameThemes)
+                .Include(g => g.videoGameAccesories)
+                .Include(g => g.videoGameGeneros)
+                .ToListAsync());
         }
         
         
@@ -25,7 +32,13 @@ namespace videoGameApi.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<VideoGame>> GetVideoGameById(int id)
         {
-            var game = await _context.VideoGames.Include(g => g.VideoGameDetails).FirstOrDefaultAsync(x =>x.VideoGameId ==id);
+            var game = await _context.VideoGames
+                .Include(g => g.Mercado)
+                .Include(g => g.VideoGameVersions)
+                .Include(g => g.VideGameThemes)
+                .Include(g => g.videoGameAccesories)
+                .Include(g => g.videoGameGeneros)
+                .FirstOrDefaultAsync(x =>x.VideoGameId ==id);
             //var game= await _context.VideoGames.FindAsync(id);
             if (game==null)
                 return NotFound();

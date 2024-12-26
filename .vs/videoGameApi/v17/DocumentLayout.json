@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogamegenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogamegenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +15,36 @@
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\database\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\database\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241226102425_Generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:videoGameApi\\Migrations\\20241226102425_Generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogameversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogameversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogameaccesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogameaccesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogametheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogametheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241226094139_Accesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:videoGameApi\\Migrations\\20241226094139_Accesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\database\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\database\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogamemercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogamemercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\repository\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\repository\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\migrations\\20241217184237_videogamedetailsrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\migrations\\20241217184237_videogamedetailsrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,19 +58,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241226102425_Generos.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241226102425_Generos.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Migrations\\20241226102425_Generos.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241226102425_Generos.cs",
+              "RelativeToolTip": "videoGameApi\\Migrations\\20241226102425_Generos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:24:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoGameGenero.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameGenero.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameGenero.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameGenero.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\VideoGameGenero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:20:58.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "VideoGameVersion.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameVersion.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameVersion.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameVersion.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\VideoGameVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:01:01.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "VideoGameMercado.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameMercado.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameMercado.cs",
@@ -62,24 +113,11 @@
               "RelativeToolTip": "videoGameApi\\Model\\VideoGameMercado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T22:51:39.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T22:51:39.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241217184237_VideoGameDetailsRelationship.cs",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241217184237_VideoGameDetailsRelationship.cs",
-              "RelativeDocumentMoniker": "videoGameApi\\Migrations\\20241217184237_VideoGameDetailsRelationship.cs",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241217184237_VideoGameDetailsRelationship.cs",
-              "RelativeToolTip": "videoGameApi\\Migrations\\20241217184237_VideoGameDetailsRelationship.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:04:46.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "VideoGameDetails.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameDetails.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameDetails.cs",
@@ -92,20 +130,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VideoGameController.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\VideoGameController.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Controllers\\VideoGameController.cs",
               "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\VideoGameController.cs",
               "RelativeToolTip": "videoGameApi\\Controllers\\VideoGameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T16:57:51.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Program.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Program.cs",
@@ -117,33 +155,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VideoGameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
-              "RelativeDocumentMoniker": "videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
-              "RelativeToolTip": "videoGameApi\\Model\\Repository\\VideoGameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "VideoGameAccesories.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameAccesories.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameAccesories.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameAccesories.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\VideoGameAccesories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:20:09.638Z",
+              "WhenOpened": "2024-12-26T09:37:11.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VideoGame.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGame.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGame.cs",
               "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGame.cs",
               "RelativeToolTip": "videoGameApi\\Model\\VideoGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T16:51:46.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "20241226094139_Accesories.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241226094139_Accesories.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Migrations\\20241226094139_Accesories.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Migrations\\20241226094139_Accesories.cs",
+              "RelativeToolTip": "videoGameApi\\Migrations\\20241226094139_Accesories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:41:40.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoGameTheme.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameTheme.cs",
+              "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameTheme.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameTheme.cs",
+              "RelativeToolTip": "videoGameApi\\Model\\VideoGameTheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:31:33.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VideoGameDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\Database\\VideoGameDbContext.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Model\\Database\\VideoGameDbContext.cs",

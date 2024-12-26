@@ -3,7 +3,7 @@
     public class VideoGameMercado
     {
         public int Id { get; set; }
-        public required  string Mercado { get; set; }
+        public required  string NombreMercado { get; set; }
        
         public int VideoGameId { get; set; }
     }

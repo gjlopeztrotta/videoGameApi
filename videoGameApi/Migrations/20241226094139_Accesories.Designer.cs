@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using videoGameApi.Model.Database;
 
@@ -11,9 +12,11 @@ using videoGameApi.Model.Database;
 namespace videoGameApi.Migrations
 {
     [DbContext(typeof(VideoGameDbContext))]
-    partial class VideoGameDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241226094139_Accesories")]
+    partial class Accesories
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,21 +24,6 @@ namespace videoGameApi.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("VideoGameVideoGameGenero", b =>
-                {
-                    b.Property<int>("VideoGamesVideoGameId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("videoGameGenerosVideoGameGeneroId")
-                        .HasColumnType("int");
-
-                    b.HasKey("VideoGamesVideoGameId", "videoGameGenerosVideoGameGeneroId");
-
-                    b.HasIndex("videoGameGenerosVideoGameGeneroId");
-
-                    b.ToTable("VideoGameVideoGameGenero");
-                });
 
             modelBuilder.Entity("videoGameApi.Model.VideoGame", b =>
                 {
@@ -66,12 +54,15 @@ namespace videoGameApi.Migrations
                     b.Property<int?>("VideGameThemeId")
                         .HasColumnType("int");
 
-                    b.Property<int?>("VideoGameAccesoriesId")
+                    b.Property<int?>("VideoGameAccesoryID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("videoGameAccesorysVideoGameAccesoriesId")
                         .HasColumnType("int");
 
                     b.HasKey("VideoGameId");
 
-                    b.HasIndex("VideoGameAccesoriesId");
+                    b.HasIndex("videoGameAccesorysVideoGameAccesoriesId");
 
                     b.ToTable("VideoGames");
 
@@ -156,23 +147,6 @@ namespace videoGameApi.Migrations
                     b.ToTable("VideoGameDetails");
                 });
 
-            modelBuilder.Entity("videoGameApi.Model.VideoGameGenero", b =>
-                {
-                    b.Property<int>("VideoGameGeneroId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("VideoGameGeneroId"));
-
-                    b.Property<string>("name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("VideoGameGeneroId");
-
-                    b.ToTable("VideoGameGenero");
-                });
-
             modelBuilder.Entity("videoGameApi.Model.VideoGameMercado", b =>
                 {
                     b.Property<int>("Id")
@@ -242,28 +216,13 @@ namespace videoGameApi.Migrations
                     b.ToTable("VideoGameVersion");
                 });
 
-            modelBuilder.Entity("VideoGameVideoGameGenero", b =>
-                {
-                    b.HasOne("videoGameApi.Model.VideoGame", null)
-                        .WithMany()
-                        .HasForeignKey("VideoGamesVideoGameId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("videoGameApi.Model.VideoGameGenero", null)
-                        .WithMany()
-                        .HasForeignKey("videoGameGenerosVideoGameGeneroId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("videoGameApi.Model.VideoGame", b =>
                 {
-                    b.HasOne("videoGameApi.Model.VideoGameAccesories", "videoGameAccesories")
+                    b.HasOne("videoGameApi.Model.VideoGameAccesories", "videoGameAccesorys")
                         .WithMany()
-                        .HasForeignKey("VideoGameAccesoriesId");
+                        .HasForeignKey("videoGameAccesorysVideoGameAccesoriesId");
 
-                    b.Navigation("videoGameAccesories");
+                    b.Navigation("videoGameAccesorys");
                 });
 
             modelBuilder.Entity("videoGameApi.Model.VideoGameDetails", b =>
