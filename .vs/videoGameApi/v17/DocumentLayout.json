@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|c:\\users\\gjlop\\documents\\github\\videogameapi\\videogameapi\\model\\videogameversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6AC2AE-AC25-4041-BC14-813308633778}|videoGameApi\\videoGameApi.csproj|solutionrelative:videogameapi\\model\\videogameversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "VideoGameVersion.cs",
               "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Model\\VideoGameVersion.cs",
               "RelativeDocumentMoniker": "videoGameApi\\Model\\VideoGameVersion.cs",
@@ -42,19 +38,7 @@
               "RelativeToolTip": "videoGameApi\\Model\\VideoGameVersion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:42:02.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VideoGameController.cs",
-              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\VideoGameController.cs",
-              "RelativeDocumentMoniker": "videoGameApi\\Controllers\\VideoGameController.cs",
-              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\videoGameApi\\videoGameApi\\Controllers\\VideoGameController.cs",
-              "RelativeToolTip": "videoGameApi\\Controllers\\VideoGameController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwC8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:20:20.809Z",
+              "WhenOpened": "2024-12-26T21:42:02.459Z",
               "EditorCaption": ""
             }
           ]
